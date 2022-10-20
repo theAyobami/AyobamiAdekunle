@@ -1,6 +1,8 @@
-A self-motivated business-oriented designer who is trying to build a successful brand for himself. I am a freelance graphic designer. Corporate communication design and  brand designing are my top design skills.
-
-<!---
-AyobamiAdekunle/AyobamiAdekunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• In-depth knowledge of JavaScript, CSS, HTML, and front-end languages.
+• Knowledge of REACT tools including React.js, Webpack, and  Redux,.
+• Experience with user interface design.
+• Excellent troubleshooting skills and good project management skills.
+• Continuous professional self-development.
+• Attention to detail, analytical mindset and good problem-solving skills.
+• Ability to work as part of a team and Good organizational skills.
+• Developing and implementing highly responsive front-end user interface components using HTML, CSS, JS and react.js when required.
